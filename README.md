@@ -14,7 +14,7 @@ your-project/
 └── pom.xml
 ```
 
-Pindahkan semua file sumber Java Anda ke dalam direktori src/main/java, dan jika ada file pengujian, pindahkan ke src/test/java. File lain yang digunakan oleh aplikasi, seperti file konfigurasi, bisa ditempatkan di src/main/resources.
+Pindahkan semua file sumber Java Anda ke dalam direktori src/main/java, dan jika ada file test, pindahkan ke src/test/java. File lain yang digunakan oleh aplikasi, seperti file konfigurasi, bisa ditempatkan di src/main/resources.
 
 **Buat File POM**
 ```
